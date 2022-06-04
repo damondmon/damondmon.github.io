@@ -4,11 +4,13 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  font-family: "Open Sans", sans-serif;
 }
 body,
 html {
   height: 100%;
-  background-color: #eeeeee;
+    background-image: url(images/back2.jpg);
+  background-repeat: repeat;
 }
 
 .navigation {
@@ -19,9 +21,14 @@ html {
 .dropdown {
   width: 80%;
   margin: 5% auto 0 auto;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
-  background-color: #f9f9f9;
+  box-shadow: 5px 3px 10px rgba(0, 0, 0, 0.6);
+  background-image: url(images/image1.jpg);
+  background-repeat: repeat-y;
+  background-position: right;
+  background-color: #e6e8ea;
+  background-size: 400px;
   max-width: 800px;
+  border-radius: 100px;
 }
 .dropdown .slider {
   width: 100%;
@@ -108,15 +115,19 @@ html {
   transform: rotate(45deg);
   -webkit-transform: rotate(45deg);
 }
-a{
+.dropdown a{
   text-decoration: none;
   color: black;
 }
-/*for main*/
+
+
+
+
 /*for footer*/
 footer{
    padding: 20px;
    background-color: #2b2b2b;
+   margin-top: 10px;
 }
 footer, p{
   color: #d7dbdb;
@@ -129,8 +140,53 @@ footer, b{
 
 /*main*/
 .card{
-  background-color: red ;
-  height: 100px;
-  margin: 10px;
-  padding: 15px;
+ /* border-color: black;
+  border-style: solid;*/
+  width: 90%;
+  margin: auto;
+  padding: 20px;
+  border-radius: 10px;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+.section1 {
+
 }
+.section1 *{
+  color: black;
+}
+.section1 p{
+  text-align: left;
+}
+.section2{
+  float: right;
+}
+.section2::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+/*Header boss*/
+header {
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+
+.logo{
+  display: flex;
+  align-items: center;
+
+}
+.judul{
+  width: 60%;
+  margin: auto;
+  text-align: center;
+}
+.judul img {
+  float: left;
+  width: 100px;
+  height: 100px;
+  display: block;
+  margin: auto;
+}
+
