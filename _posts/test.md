@@ -1,7 +1,7 @@
 ---
-title: Ayam
-date: 2024-05-29 09:00:00 -500
-categories: [mboh]
+title: Ayam Bakra
+date: 2024-05-29 09:00:00 +700
+categories: [mboh,ratatats]
 tags: [ndak]
 ---
 
