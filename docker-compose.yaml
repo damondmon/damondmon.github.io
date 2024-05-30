@@ -1,7 +1,7 @@
 version: '3.8'
 services:
   jekyll:
-    image: jekyll:1.0
+    image: jekyll
     labels:
       - "traefik.enable=true"
       - "traefik.http.routers.jekyll.rule=Host(`docs.local.kyoodude.site`)"
