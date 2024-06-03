@@ -17,11 +17,11 @@ timezone: Asia/Jakarta
 title: SmileyDistrict # the main title
 
 tagline: 
-   A Documentation site that focuses on computer's things. And also some other simple note besides computer's things. "Keep Seeking knowledge from the cradle to the grave".   
+   A Documentation site that focuses on computer stuff. And also some other simple note besides computer stuff. With the aim of "Keep Seeking knowledge from the cradle to the grave".   
    # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-   A Documentation site that focuses on computer's things. And also some other simple note besides computer's things. "Keep Seeking knowledge from the cradle to the grave".  
+   A Documentation site that focuses on computer stuff. And also some other simple note besides computer stuff. With the aim of "Keep Seeking knowledge from the cradle to the grave".  
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: assets/img/ava.png
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
