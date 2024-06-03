@@ -14,16 +14,18 @@ timezone: Asia/Jakarta
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: KyUwU # the main title
+title: SmileyDistrict # the main title
 
-tagline: Nganu.. iku, di... nahhh...  # it will display as the sub-title
+tagline: 
+   A Documentation site that focuses on computer's things. And also some other simple note besides computer's things. "Keep Seeking knowledge from the cradle to the grave".   
+   # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Nganu.. iku, di... nahhh... 
+   A Documentation site that focuses on computer's things. And also some other simple note besides computer's things. "Keep Seeking knowledge from the cradle to the grave".  
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://docs.local.kyoodude.site"
+url: "https://damondmon.github.io"
 
 github:
   username: damondmon # change to your github username
