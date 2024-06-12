@@ -33,4 +33,4 @@ Dengan desktop (Dengan GUI, biasa untuk client)
 - RAM : 1 GB (2 GB disarankan)
 - Hardisk : 10  GB (lebih banyak lebih baik)
 
-Lalu pastikan anda memiliki file image dari sistem operasi Debian. Anda dapat mendownloadnya di situs resmi nya <http://www.debian.org>. Untuk cara downloadnya bisa dilihat pada halaman berikut <http://blablabalbabl>
+Lalu pastikan anda memiliki file image dari sistem operasi Debian. Anda dapat mendownloadnya di situs resmi nya [debian.org](https://www.debian.org). Untuk cara downloadnya bisa dilihat pada halaman berikut <http://blablabalbabl>
